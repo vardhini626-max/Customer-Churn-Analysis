@@ -19,7 +19,6 @@ customer-churn-prediction/
 │   ├── model_comparison.csv
 │   └── figures/               # charts exported by the notebook
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
@@ -68,7 +67,5 @@ To use real data (for example the public *Telco Customer Churn* dataset), save i
 - Wrap the model in a Streamlit app
 
 ## Author
-YOUR NAME HERE, https://github.com/YOUR-USERNAME
+https://github.com/vardhini626-max/Customer-Churn-Analysis
 
-## License
-MIT
